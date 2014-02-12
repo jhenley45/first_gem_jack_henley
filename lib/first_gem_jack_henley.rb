@@ -8,4 +8,6 @@ class String
 	def unique_words
 		self.split.uniq
 	end
+
+
 end

@@ -15,3 +15,15 @@ describe String, "#word_count" do
 		expect(a_string.word_count).to eq 3
 	end
 end
+
+describe String, "#unique_words" do
+	it 'should have a method called unique_words' do
+		should respond_to :unique_words
+	end
+
+	it 'should return 2 when there are 2 unique words' do
+		a_string = "the the the the what"
+		expect(a_string.unique_words).to eq ["the", "what"]
+	end
+
+end
