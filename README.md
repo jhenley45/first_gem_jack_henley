@@ -1,6 +1,8 @@
 # FirstGemJackHenley
 
-TODO: Write a gem description
+[![Gem Version](https://badge.fury.io/rb/first_gem_jack_henley.png)](http://badge.fury.io/rb/first_gem_jack_henley)
+
+TODO: Fancy Schmancy
 
 ## Installation
 
