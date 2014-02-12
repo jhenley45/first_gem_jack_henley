@@ -1,6 +1,7 @@
 # FirstGemJackHenley
 
 [![Gem Version](https://badge.fury.io/rb/first_gem_jack_henley.png)](http://badge.fury.io/rb/first_gem_jack_henley)
+[![Code Climate](https://codeclimate.com/repos/52fbaf976956805f5c002e0e/badges/c4c326c9344e5c78bf12/gpa.png)](https://codeclimate.com/repos/52fbaf976956805f5c002e0e/feed)
 
 TODO: Fancy Schmancy
 
